@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renato</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working at **TecSinapse**
+- 🔭 I’m currently working at **Elotech**
 
 - 📫 How to reach me **mussinato@gmail.com**
 
